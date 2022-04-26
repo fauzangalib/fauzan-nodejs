@@ -1,0 +1,19 @@
+{
+  "name": "fauzan-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fauzangalib/fauzan-nodejs.git"
+  },
+  "author": "fauzan galib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fauzangalib/fauzan-nodejs/issues"
+  },
+  "homepage": "https://github.com/fauzangalib/fauzan-nodejs#readme"
+}
